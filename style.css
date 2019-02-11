@@ -1,0 +1,114 @@
+@media(max-width: 1440px) {}
+
+
+#top, h1, h2, h3 {
+	font-family:DIN Condensed;
+	font-size:50px;
+	color:LightSlateGrey;
+	background-color:AliceBlue;
+	padding:20px 20px 15px 20px;
+	margin:20px 50px 20px 50px;
+
+}
+
+p {
+	
+	font-family: Avenir Next Condensed;
+	color: Black;
+	margin-right:150px;
+	margin-left:50px;
+	font-size:28px;
+	padding-left:15px;
+}
+
+body {
+	background-color:White;
+}
+
+.pic {
+
+	float:right;
+	margin-top:50px;
+	margin-right:20px;
+}
+
+.pic-1 {
+	float:right;
+	margin:10px 75px 10px 10px;
+}
+
+.pic-2 {
+	float:right;
+	margin: 15px 200px 10px 10px;
+}
+
+.pic-right {
+	float:right;
+	margin: 15px 300px 10px 10px;
+}
+
+.writing {
+
+	margin-top:70px;
+	left:75px;
+	right:30px;
+
+}
+
+li {
+	font-family:Avenir Next;
+	margin:10px 10px 20px 50px;
+	font-size:20px;
+
+
+}
+
+ul {
+	list-style-type:none;
+}
+
+
+button {
+	
+	padding:5px;
+	font-family:DIN Condensed;
+	
+	font-size:20px;
+
+
+}
+
+a {
+	color:black;
+	text-decoration:none;
+	background-color:LightYellow;
+	padding: 5px;
+
+}
+
+a:hover {
+	color:Coral;
+}
+
+a:#start-buttons {
+	background-color:White;
+	
+}
+
+a:img {
+	background-color: White;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
